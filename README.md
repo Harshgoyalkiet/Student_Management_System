@@ -51,8 +51,3 @@ Usage
 Use REST endpoints to perform CRUD operations for students.
 
 Data is automatically persisted in the configured MySQL database.
-
-
-What are common badges or shields to include for such a project
-How to add setup and deployment instructions for clarity
-What testing or contribution guidelines are recommended for this project
